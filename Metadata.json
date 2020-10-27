@@ -1,0 +1,20 @@
+{
+    "Author": "WarNov",
+    "ContentSize": 3152,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/azure-service-plan-vertical-scale-(up-or-down-in-the-same-instance-and-tier)/master/ServicePlanVerticalScale.ps1",
+    "DownloadCount": 1032,
+    "Id": "Azure-Service-Plan-29b1ddbf",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 162,
+    "RaterCount": 1,
+    "Rating": 5.0,
+    "ReleaseDate": "2019-5-6T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This script is designed to allow an App Service Plan to grow or contract its size without changing its current tier or number of instances.",
+    "Title": "Azure Service Plan: Vertical Scale (up or down in the same instance and tier)",
+    "UpdatedDate": "2019-5-6T00:00:00",
+    "Url": "https://github.com/azureautomation/azure-service-plan-vertical-scale-(up-or-down-in-the-same-instance-and-tier)",
+    "UserTags": "Azure, Microsoft Azure, Azure Automation"
+}
